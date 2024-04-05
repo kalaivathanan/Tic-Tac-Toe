@@ -1,12 +1,12 @@
 import React from 'react'
 import './App.css'
-// import TicTacToe from './components/TicTacToe/TicTacToe'
+import TicTacToe from "./components/TicTacToe/TicTacToe";
 const App = () => {
   return (
     <div>
-      {/* <TicTacToe /> */}
+      <TicTacToe />
     </div>
-  )
+  );
 }
 
 export default App
