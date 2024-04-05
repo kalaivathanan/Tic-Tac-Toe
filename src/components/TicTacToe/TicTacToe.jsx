@@ -53,6 +53,9 @@ const TicTacToe = () => {
       won(data[8]);
     } else if (data[2] === data[4] && data[4] === data[6] && data[6] !== "") {
       won(data[6]);
+    } else if (!data.includes("")) {
+      setLock(true);
+      titleRef.current.innerHTML = `This Match ends in a draw`;
     }
   };
 
