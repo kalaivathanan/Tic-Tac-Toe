@@ -15,13 +15,21 @@ This is a simple Tic-Tac-Toe game built using React.js.
 - Automatic detection of winning combinations.
 - Restart button to start a new game.
 
+- ## Screenshots
+
+Here are some screenshots of the application:
+
+![Screenshot 1](src/components/Assets/game.png)
+![Screenshot 1](src/components/Assets/game1.png)
+![Screenshot 1](src/components/Assets/game2.png)
+
 ## Installation
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
 3. Run `npm install` to install dependencies.
 4. Run `npm run dev` to start the development server.
-5. Open your browser and navigate to local host.
+5. Open your browser and navigate to Local host.
 
 ## Contributing
 
